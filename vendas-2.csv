@@ -1,0 +1,52 @@
+data;produto;categoria;quantidade;preco_unitario;vendedor;forma_pagamento
+2026-04-01;Calca Alfaiataria;Feminino;2;229.00;Bruno;Pix
+2026-04-01;Camisa de Linho;Masculino;5;189.00;Ana;Cartao
+2026-04-01;Conjunto Infantil;Infantil;1;129.00;Carla;Cartao
+2026-04-01;Camiseta Basica;Masculino;1;79.90;Bruno;Dinheiro
+2026-04-01;Camisa de Linho;Masculino;2;189.00;Ana;Dinheiro
+2026-04-01;Camiseta Basica;Masculino;5;79.90;Ana;Cartao
+2026-04-01;Camiseta Infantil;Infantil;6;69.90;Carla;Pix
+2026-04-02;Conjunto Infantil;Infantil;5;129.00;Bruno;Pix
+2026-04-02;Calca Chino;Masculino;1;199.00;Carla;Cartao
+2026-04-02;Vestido Midi;Feminino;4;249.00;Ana;Pix
+2026-04-02;Conjunto Infantil;Infantil;3;129.00;Carla;Cartao
+2026-04-02;Camisa de Linho;Masculino;5;189.00;Carla;Cartao
+2026-04-02;Calca Alfaiataria;Feminino;1;229.00;Carla;Pix
+2026-04-02;Conjunto Infantil;Infantil;1;129.00;Carla;Cartao
+2026-04-03;Blusa de Trico;Feminino;6;159.00;Carla;Dinheiro
+2026-04-03;Cinto de Couro;Acessorios;3;99.00;Bruno;Dinheiro
+2026-04-03;Calca Alfaiataria;Feminino;3;229.00;Ana;Cartao
+2026-04-03;Bolsa Tiracolo;Acessorios;2;199.00;Ana;Cartao
+2026-04-03;Saia Plissada;Feminino;4;179.00;Bruno;Dinheiro
+2026-04-03;Vestido Midi;Feminino;5;249.00;Ana;Pix
+2026-04-03;Saia Plissada;Feminino;4;179.00;Ana;Cartao
+2026-04-03;Jaqueta Jeans;Masculino;4;299.00;Bruno;Pix
+2026-04-04;Camiseta Infantil;Infantil;1;69.90;Carla;Cartao
+2026-04-04;Calca Alfaiataria;Feminino;6;229.00;Bruno;Dinheiro
+2026-04-04;Conjunto Infantil;Infantil;4;129.00;Ana;Pix
+2026-04-04;Vestido Midi;Feminino;4;249.00;Carla;Pix
+2026-04-04;Camiseta Basica;Masculino;6;79.90;Carla;Cartao
+2026-04-04;Camiseta Infantil;Infantil;5;69.90;Carla;Dinheiro
+2026-04-04;Vestido Midi;Feminino;6;249.00;Bruno;Cartao
+2026-04-05;Camiseta Basica;Masculino;4;79.90;Bruno;Cartao
+2026-04-05;Conjunto Infantil;Infantil;1;129.00;Bruno;Pix
+2026-04-05;Calca Chino;Masculino;3;199.00;Ana;Cartao
+2026-04-05;Regata Basica;Feminino;4;59.90;Bruno;Pix
+2026-04-05;Jaqueta Jeans;Masculino;4;299.00;Bruno;Cartao
+2026-04-05;Jaqueta Jeans;Masculino;4;299.00;Carla;Cartao
+2026-04-05;Bolsa Tiracolo;Acessorios;4;199.00;Bruno;Dinheiro
+2026-04-05;Calca Chino;Masculino;2;199.00;Ana;Cartao
+2026-04-06;Jaqueta Jeans;Masculino;2;299.00;Carla;Cartao
+2026-04-06;Camiseta Basica;Masculino;4;79.90;Carla;Cartao
+2026-04-06;Vestido Midi;Feminino;3;249.00;Ana;Cartao
+2026-04-06;Regata Basica;Feminino;5;59.90;Bruno;Cartao
+2026-04-06;Jaqueta Jeans;Masculino;6;299.00;Carla;Pix
+2026-04-06;Blusa de Trico;Feminino;6;159.00;Carla;Dinheiro
+2026-04-06;Regata Basica;Feminino;4;59.90;Bruno;Pix
+2026-04-07;Blusa de Trico;Feminino;6;159.00;Bruno;Pix
+2026-04-07;Calca Chino;Masculino;1;199.00;Ana;Dinheiro
+2026-04-07;Jaqueta Jeans;Masculino;1;299.00;Bruno;Pix
+2026-04-07;Camisa de Linho;Masculino;1;189.00;Carla;Cartao
+2026-04-07;Saia Plissada;Feminino;1;179.00;Bruno;Pix
+2026-04-07;Camisa de Linho;Masculino;2;189.00;Carla;Dinheiro
+2026-04-07;Jaqueta Jeans;Masculino;6;299.00;Bruno;Cartao
