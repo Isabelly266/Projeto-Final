@@ -65,5 +65,5 @@ Ou seja, a loja vendeu 179 unidades e faturou R$ 31.641,50, que ficou um pouco a
 
 ## Integrantes e o que cada um fez
 - **Giovana Bedone de Castro:** criou os dados e o arquivo `vendas.csv`.
-- **Isabelly Tiemy Matsuura da Silva:** fez o código em Python e escreveu o 'README.md'.
-- **Rafaella de Almeida Reis:** escreveu o `README.md` e o configuracao-2.json'
+- **Isabelly Tiemy Matsuura da Silva:** fez o código em Python e escreveu o `README.md`.
+- **Rafaella de Almeida Reis:** escreveu o `README.md` e o `configuracao-2.json`
